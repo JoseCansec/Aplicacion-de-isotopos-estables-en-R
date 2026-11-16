@@ -40,5 +40,7 @@ Referencias
 
 -Minagawa M, Wada E. Stepwise enrichment of 15N along food chains: Further evidence and the relation between δ15N and animal age. Geochimica et Cosmochimica Acta 1984;48(5):1135–40.            https://doi.org/10.1016/0016-7037(84)90204-7.
 -Post DM. Using stable isotopes to estimate trophic position: models, methods, and assumptions. Ecology 2002;83(3):703–18.
+
 -Trueman CN, MacKenzie KM, Palmer MR. Identifying migrations in marine fishes through stable-isotope analysis. Journal of Fish Biology 2012;81(2):826–47. https://doi.org/10.1111/j.1095-       8649.2012.03361.x.
+
 -Vander Zanden MJ, Rasmussen JB. Primary consumer δ13C and δ15N and the trophic position of aquatic consumers. Ecology 1999;80(4):1395–404.
